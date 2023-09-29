@@ -1,4 +1,4 @@
-<h1>Hi, I'm Kevin! <br/><a href="https://github.com/">Information Technology Professional</a>, <a href="https://www.linkedin.com/in//">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/">YouTuber</a></h1>
+<h1>Hi, I'm Kevin! <br/><a href="https://github.com/">I.T Support</a> & <a href="https://www.linkedin.com/">Cyber Security Professional</a></h1>
 
 <h2> Certifications:</h2> 
 
@@ -16,7 +16,7 @@
   - [Active Directory Bulk User Creation](https://github.com/)
   - [FIM (File Integrity Monitor)](https://github.com/)
 
- <h2>👨‍💻 Cybersecurity Projects:</h2>
+ <h2>👨‍💻 Cyber Security Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/)
