@@ -6,9 +6,10 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
+- <b>Disk Management Lab</b>
+  - [Linux - Partioning & Formatting Disk Drives](https://github.com/)
+  - [Windows - Partioning & Formatting Disk Drives(Disk Management Utility)](https://github.com/)
+- <b> Something Management Lab</b>
   - [Image Analysis Middleware](https://github.com/) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/)
