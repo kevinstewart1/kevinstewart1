@@ -2,7 +2,7 @@
 
 <h2> Certifications:</h2> 
 
-  - [Google IT Support Professional](https://github.com/)
+  - [Google IT Support Professional](https://github.com/kevinstewart1/ProfessionalCerts)
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
