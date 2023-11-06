@@ -46,7 +46,7 @@
 [twitter]: https://twitter.com/
 [youtube]: https://www.youtube.com/
 [instagram]: https://www.instagram.com/
-[linkedin]: https://linkedin.com/
+[linkedin]: www.linkedin.com/in/kevinstewartit
 
 <!--
 **kevinstewart1/kevinstewart1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
