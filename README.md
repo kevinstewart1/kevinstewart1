@@ -6,8 +6,10 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-- <b> Active Directory Labs</b>
+- <b> Active Directory Lab</b>
   - [Creating Users in Active Directory](https://github.com/kevinstewart1/new_user_ad#readme) <b><i></b></i>
+- <b> Group Policy Lab</b>
+  - [Managing Group Policies](https://github.com/kevinstewart1/Linux-Disk-Management-Lab)
 - <b>Disk Management Lab</b>
   - [Linux - Partioning & Formatting Disk Drives](https://github.com/kevinstewart1/Linux-Disk-Management-Lab)
   - [Windows - Partioning & Formatting Disk Drives(Disk Management Utility)](https://github.com/kevinstewart1/Windows-Disk-Management-Lab)
