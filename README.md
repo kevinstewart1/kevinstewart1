@@ -13,11 +13,6 @@
 - <b>Disk Management Lab</b>
   - [Linux - Partioning & Formatting Disk Drives](https://github.com/kevinstewart1/Linux-Disk-Management-Lab)
   - [Windows - Partioning & Formatting Disk Drives(Disk Management Utility)](https://github.com/kevinstewart1/Windows-Disk-Management-Lab)
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/)
-  - [JWipe (Disk Wiping Utility)](https://github.com/)
-  - [Active Directory Bulk User Creation](https://github.com/)
-  - [FIM (File Integrity Monitor)](https://github.com/)
 
  <h2>👨‍💻 Cyber Security Projects:</h2>
 
