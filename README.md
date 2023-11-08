@@ -1,4 +1,4 @@
-<h1>Hi, I'm Kevin! <br/><a href="https://github.com/kevinstewart1/Google-IT-Support-Professional">I.T Tech Support</a> & <a href="https://www.linkedin.com/in/kevinstewartit">Cyber Security Professional</a></h1>
+<h1>Hi, I'm Kevin! <br/> <a href="https://github.com/kevinstewart1/Google-IT-Support-Professional">I.T Tech Support</a> & <a href="https://www.linkedin.com/in/kevinstewartit">Cyber Security Professional</a></h1>
 
 <h2> Certifications:</h2> 
 
