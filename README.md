@@ -28,13 +28,6 @@
   - [JWipe (Disk Wiping Utility)](https://github.com/)
   - [Active Directory Bulk User Creation](https://github.com/)
   - [FIM (File Integrity Monitor)](https://github.com/) 
-<h2>📺 Popular</h2>
-
-- [How to get](https://www.youtube.com/)
-- [A Day in the Life](https://www.youtube.com/)
-- [How to](https://www.youtube.com/)
-- [Ransomware Demo)](https://www.youtube.com/)
-- [I](https://www.youtube.com/)
 
 <h2> 🤳 Connect with me:</h2>
 
