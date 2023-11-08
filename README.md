@@ -9,7 +9,7 @@
 - <b> Active Directory Lab</b>
   - [Creating Users in Active Directory](https://github.com/kevinstewart1/new_user_ad#readme) <b><i></b></i>
 - <b> Group Policy Lab</b>
-  - [Managing Group Policies](https://github.com/kevinstewart1/Linux-Disk-Management-Lab)
+  - [Managing Group Policies](https://github.com/kevinstewart1/group-policy)
 - <b>Disk Management Lab</b>
   - [Linux - Partioning & Formatting Disk Drives](https://github.com/kevinstewart1/Linux-Disk-Management-Lab)
   - [Windows - Partioning & Formatting Disk Drives(Disk Management Utility)](https://github.com/kevinstewart1/Windows-Disk-Management-Lab)
