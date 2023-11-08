@@ -8,8 +8,10 @@
 
 - <b> Active Directory Lab</b>
   - [Creating Users in Active Directory](https://github.com/kevinstewart1/new_user_ad#readme) <b><i></b></i>
+  <br/>
 - <b> Group Policy Lab</b>
   - [Managing Group Policies](https://github.com/kevinstewart1/group-policy)
+  <br/>
 - <b>Disk Management Lab</b>
   - [Linux - Partioning & Formatting Disk Drives](https://github.com/kevinstewart1/Linux-Disk-Management-Lab)
   - [Windows - Partioning & Formatting Disk Drives(Disk Management Utility)](https://github.com/kevinstewart1/Windows-Disk-Management-Lab)
@@ -18,13 +20,6 @@
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/)
-  - [JWipe (Disk Wiping Utility)](https://github.com/)
-  - [Active Directory Bulk User Creation](https://github.com/)
-  - [FIM (File Integrity Monitor)](https://github.com/) 
 
 <!--
 **kevinstewart1/kevinstewart1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
