@@ -19,8 +19,10 @@
  <h2>👨‍💻 Cyber Security Projects:</h2>
 
 - <b>TcpDump Packet Capture Practice</b>
-  - [Practicing Capturing and Saving Packets in Linux](https://github.com/kevinstewart1/tcpdump)
-<!--
+  - [Capturing Packets](https://github.com/kevinstewart1/tcpdump)
+  - [Filtering Packets](https://github.com/kevinstewart1/tcpdump)
+  - [Saving Packets](https://github.com/kevinstewart1/tcpdump)
+    <!--
 **kevinstewart1/kevinstewart1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
