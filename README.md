@@ -21,7 +21,7 @@
 - <b>TcpDump Packet Capture Practice</b>
   - [Capturing Packets](https://github.com/kevinstewart1/tcpdump)
   - [Filtering Packets](https://github.com/kevinstewart1/tcpdump-filter)
-  - [Saving Packets](https://github.com/kevinstewart1/tcpdump)
+  - [Saving Packets](https://github.com/kevinstewart1/tcpdump-savingpackets)
     <!--
 **kevinstewart1/kevinstewart1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
