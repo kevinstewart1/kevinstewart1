@@ -12,10 +12,9 @@
 - <b> Group Policy Lab</b>
   - [Managing Group Policies](https://github.com/kevinstewart1/group-policy)
   <br/>
-- <b>Disk Management Lab</b>
-  - [Linux - Partioning & Formatting Disk Drives](https://github.com/kevinstewart1/Linux-Disk-Management-Lab)
-  - [Windows - Partioning & Formatting Disk Drives(Disk Management Utility)](https://github.com/kevinstewart1/Windows-Disk-Management-Lab)
-
+- <b> Computer Hardware Lab</b>
+  - [Assembling a Computer](https://github.com/kevinstewart1/Computer-assembly)
+  
  <h2>👨‍💻 Cyber Security Projects:</h2>
 
 - <b>TcpDump Packet Capture Practice</b>
