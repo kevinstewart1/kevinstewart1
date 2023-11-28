@@ -16,7 +16,10 @@
   - [Assembling a Computer](https://github.com/kevinstewart1/Computer-assembly)
   
  <h2>👨‍💻 Cyber Security Projects:</h2>
-
+ 
+ - <b>SQL Labs</b>
+   - [Filtering Queries](https://github.com/kevinstewart1/mysql)
+  
 - <b>TcpDump Packet Capture Practice</b>
   - [Capturing Packets](https://github.com/kevinstewart1/tcpdump)
   - [Filtering Packets](https://github.com/kevinstewart1/tcpdump-filter)
